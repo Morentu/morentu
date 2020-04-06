@@ -32,15 +32,8 @@ if [[ $option == 1 || $option == 01 ]]; then
 server="instagram"
 start1
 
-elif [[ $option == 2 || $option == 02 ]]; then
-server="facebook"
-start1
 
-elif [[ $option == 3|| $option == 03]]; then
-server="twitter"
-start1
-
-elif [[ $option == 4| $option == 04]; then
+elif [[ $option == 2| $option == 02]; then
 server="google"
 start1
 
