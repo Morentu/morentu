@@ -33,7 +33,7 @@ server="instagram"
 start1
 
 
-elif [[ $option == 2|| $option == 02]]; then
+elif [[ $option == 2|| $option == 02 ]]; then
 server="google"
 start1
 
